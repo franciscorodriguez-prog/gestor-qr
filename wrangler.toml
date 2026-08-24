@@ -1,0 +1,7 @@
+name = "gestor-qr"
+main = "worker.js"
+compatibility_date = "2024-01-01"
+
+[[kv_namespaces]]
+binding = "QR_LINKS"
+id = "PENDIENTE_COMPLETAR"
